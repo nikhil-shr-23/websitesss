@@ -1,9 +1,6 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
 
 /**
- * copyright 2022 codewithsadee
+ * nickel@silver 
  */
 
 
@@ -11,7 +8,7 @@
 
 
 /*-----------------------------------*\
-  #CUSTOM PROPERTY
+  #Custom settings
 \*-----------------------------------*/
 
 :root {
@@ -958,7 +955,7 @@ body {
 \*-----------------------------------*/
 
 /**
- * responsive for large than 575px screen
+ * responsivineesss
  */
 
 @media (min-width: 575px) {
